@@ -56,7 +56,7 @@ int main( )
 	while ( val != 3 );
 	
 	cout << "Asgeir Vidar Arnason" << endl; 
-	
+	cout << "Ottar Helgi Einarsson" << endl;
 	return 0;
 }
 
