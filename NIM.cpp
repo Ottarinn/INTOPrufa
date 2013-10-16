@@ -54,7 +54,9 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-
+	
+	cout << "Asgeir Vidar Arnason" << endl; 
+	
 	return 0;
 }
 
