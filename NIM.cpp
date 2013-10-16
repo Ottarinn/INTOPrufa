@@ -57,7 +57,11 @@ int main( )
 	
 	cout << "Asgeir Vidar Arnason TM" << endl; 
 	cout << "Ottar Helgi Einarsson golfmeistari og ahugamadur um tigerinn" << endl;
+<<<<<<< HEAD
 	cout << "\n"  << "Sigurjón Birgisson (sjonni)" <<endl;
+=======
+	cout << "Svenni ad prufa.\n";
+>>>>>>> e29cb85c8927e5898ae5ee450bf6cdc6dfaa3adc
 	return 0;
 }
 
