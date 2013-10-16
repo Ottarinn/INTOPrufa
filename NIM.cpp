@@ -57,6 +57,7 @@ int main( )
 	
 	cout << "Asgeir Vidar Arnason TM" << endl; 
 	cout << "Ottar Helgi Einarsson golfmeistari og ahugamadur um tigerinn" << endl;
+	cout << "Svenni ad prufa.\n";
 	return 0;
 }
 
